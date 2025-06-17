@@ -63,3 +63,17 @@ public class Problem_1 {
         return true;
     }
 }
+
+//al usar lenguaje -> saber que hacen las librerías, que exactamente hacen los metodos
+//repaso notacion big O, no implica tiempo, solo repeticiones
+//ciclos -> O(N)
+//anidados -> ON2
+//este caso O(N) o O(1) depende de la librería
+//validación del mapa con equals, era ideal usar un mapa, complejidad mínima era O(N)
+//repasar mapas en cualquier lenguaje dict en python
+// aprender el funcionamiento general de los algoritmos
+// mas la logica que implementar edd pero si el manejo de edd. Algoritmos van de la mano con estructura de datos
+//qué lenguaje? -a cuál le sabes mejor las mañas?
+//dict en python complica usar objetos como llaves
+//B1 Yenni C1
+
