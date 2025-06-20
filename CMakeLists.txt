@@ -3,4 +3,5 @@ project(algorithms)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(algorithms Problem_2.cpp)
+add_executable(algorithms Problem_2.cpp
+        Problem_3.cpp)

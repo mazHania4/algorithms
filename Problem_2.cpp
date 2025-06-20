@@ -3,7 +3,6 @@
 #include <iostream>
 #include <any>
 #include <vector>
-#include <type_traits>
 
 using namespace std;
 using AnyArray = vector<any>;
